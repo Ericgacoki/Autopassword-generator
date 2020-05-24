@@ -24,6 +24,8 @@ private fun generateText(): String {
             "t", "u", "v", "w", "x", "y", "z",
             "m", "n", "o", "p", "q", "r", "s"
         )
+    
+    // create an uppercase array
 
     val upperCase: Array<String> =
         arrayOf(
