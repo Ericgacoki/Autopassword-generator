@@ -25,7 +25,7 @@ private fun generateText(): String {
             "m", "n", "o", "p", "q", "r", "s"
         )
     
-    // create an uppercase array
+    // create an uppercase array and add it to the lowercase one
 
     val upperCase: Array<String> =
         arrayOf(
