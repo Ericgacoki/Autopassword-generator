@@ -9,7 +9,7 @@ private fun generateNums(start: Int = 10, end: Int = 99) =
 private fun generateSpecialChar(): String {
     val randomChar = (0..4).shuffled().last()
     val chars = arrayOf("@", "#", "$", "&", "_", "!")
-    return chars[randomChar]
+    return chars[randomChar] 
 }
 
 private fun generateText(): String {
