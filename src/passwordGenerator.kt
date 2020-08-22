@@ -2,6 +2,8 @@ fun main() {
     println((generateSpecialChar() + generateText() + generateNums()))
 }
 
+//
+
 private fun generateNums(start: Int = 10, end: Int = 99) =
             (start..end).shuffled()[4].toString() + // 4 is a guessed Int
             (start..end).shuffled().last().toString()
