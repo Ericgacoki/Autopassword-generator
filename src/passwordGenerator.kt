@@ -5,7 +5,7 @@ fun main() {
 // define
 
 private fun generateNums(start: Int = 10, end: Int = 99) =
-            (start..end).shuffled()[4].toString() + // 4 is 
+            (start..end).shuffled()[4].toString() + // 4 is g
             (start..end).shuffled().last().toString()
 
 private fun generateSpecialChar(): String {
