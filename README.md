@@ -4,3 +4,5 @@
 <b>run `git clone https://github.com/Ericgacoki/Autopassword_Generator` in your terminal/ command line</b>
   
 or <b>paste `https://github.com/Ericgacoki/Autopassword_Generator` in Android studio VCS GUI to clone this repository.</b>
+
+`It works 😉`
