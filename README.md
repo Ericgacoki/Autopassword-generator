@@ -5,4 +5,4 @@
   
 or <b>paste `https://github.com/Ericgacoki/Autopassword_Generator` in Android studio VCS GUI to clone this repository.</b>
 
-`It works. Just try😉`
+`It works. Just try it😉`
