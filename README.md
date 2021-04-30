@@ -7,4 +7,4 @@
   
 or <b>paste either of the above links in Android Studio/IntelliJ or any other sh*t VCS GUI to clone this repository.</b>
 
-`It works on my machine. Just try it out😉`
+`It works on my machine. Just try it out 😉`
